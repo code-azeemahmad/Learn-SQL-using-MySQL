@@ -1,0 +1,20 @@
+
+            ______________________________
+            |   Two Types of Databases   |
+            |----------------------------|
+
+|-------------------------------------------------|
+|1) Relational Databases (SQL)                    |
+|        Organize data into one or more tables    |  
+|--> Each table has columns and rows              |     
+|--> A unique key identifies each row             |         
+|-------------------------------------------------| 
+
+|---------------------------------------------------------|
+|2) Non-Relational (noSQL / not just SQL)                 |                                     
+|     Organize data is anything but a traditional table   |                                                 
+|--> Key-value stores                                     |                 
+|--> Documents (JSON, XML, etc)                           |                         
+|--> Graphs                                               |     
+|--> Flexible Tables                                      |                 
+|---------------------------------------------------------|

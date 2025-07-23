@@ -1,0 +1,37 @@
+📘 What is a Database?
+A database is:
+
+✅ A structured collection of data that is stored and managed electronically, typically on a computer system, so it can be easily accessed, updated, and managed.
+
+_________________________________________________________________
+            ______________________________
+            | Computers + Databases = <3 |
+            |----------------------------|
+
+Amazon.com
+Keeps track of Products, Reviews,
+Purchase Orders, Credit Cards, Users,
+Media, etc
+Trillions of pieces of information need to
+be stored and readily available
+Information is extremely valuable and
+critical to Amazon.com's functioning
+Security is essential, Amazon stores
+peoples personal information
+Credit card #, SSN, Address, phone
+Information is stored on a computer
+_________________________________________________________________
+
+Shopping List
+Keeps track of consumer products that
+need to be purchased
+10-20 pieces of information need to be
+stored and readily available
+Information is for convenience sake only
+and not necessary for shopping
+Security is not important
+Information is stored on a piece of paper,
+or even just in someone's memory
+_________________________________________________________________
+
+"computers are great at keeping track of large amounts of information"

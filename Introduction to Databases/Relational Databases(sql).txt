@@ -1,0 +1,12 @@
+                                "Relational Databases (SQL):"
+
+#Relational Database Management Systems (RDBMS)
+--> Help users create and maintain a relational database
+--> mySQL, Oracle, postgreSQL, mariaDB, etc.
+
+#Structured Query Language (SQL)
+--> Standardized language for interacting with RDBMS
+--> Used to to perform C.R.U.D operations, as well as other administrative
+--> tasks (user management, security, backup, etc).
+--> Used to define tables and structures
+--> SQL code used on one RDBMS is not always portable to another without modification.

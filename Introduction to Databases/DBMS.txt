@@ -1,0 +1,13 @@
+        _______________________________________
+        | Database Management Systems (DBMS)  |
+        |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+
+o A special software program that helps users create and
+  maintain a database
+o Makes it easy to manage large amounts of information
+o Handles Security
+o Backups
+o Importing/exporting data
+o Concurrency
+o Interacts with software applications
+  Programming Languages

@@ -1,0 +1,11 @@
+            "Non-RelationaI Databases (noSQL / not just SQL)"
+
+#Non-Relational Database Management Systems (NRDBMS):
+--> Help users create and maintain a non-relational database
+--> mongoDB, dynamoDB, apache cassandra, firebase, etc
+
+#Implementation Specific
+--> Any non-relational database falls under this category, so there's no set
+    language standard.
+--> Most NRDBMS will implement their own language for performing
+    C.R.U.D and administrative operations on the database.
