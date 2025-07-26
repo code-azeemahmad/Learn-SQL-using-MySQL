@@ -177,3 +177,6 @@ CREATE TABLE `suppliers` (
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
 -- Dump completed on 2025-01-12 16:14:21
+
+SELECT * FROM customers;
+Show TABLES;
