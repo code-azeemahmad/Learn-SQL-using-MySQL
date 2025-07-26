@@ -1,0 +1,21 @@
+✅ 1. What is a Schema?
+A schema is like a container or folder that holds all the database objects, such as:
+
+Tables 🟩
+
+Views 👁️
+
+Stored Procedures ⚙️
+
+Functions 🧠
+
+Triggers 🔔
+
+Indexes 🗂️
+
+In MySQL, a schema is basically the same thing as a database.
+
+---------------------------------------------------------------------------------------------------
+
+✅ 2. What is a Table?
+A table is an object inside the schema (or database) that stores actual data in rows and columns, like an Excel sheet.
